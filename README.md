@@ -8,3 +8,5 @@ I have Designed an 3D model of an Apple Store using TINKERCAD platform
            <summary>To Edit/Modify .stl</summary>
            <p>To edit/modify this .stl file just download as zip and upload in your TINKERCAD account.....done....enjoy TINKERING....</p>
 </details>
+
+[My Blog Based on Tinkercad...Please do visit & like](https://prakashsblogontinkercad.hashnode.dev/scaling-up-tinkercad)
